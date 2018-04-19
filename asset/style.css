@@ -3,10 +3,10 @@
 Each of these CSS elements is associated with an HTML Element, Class, or ID.
 Flip between this CSS file and the HTML to see how things line up.
 Experiment with deleting lines of code from the CSS to see how it affects the webpage when you refresh in the browser.
-
+branch
 */
 
-body {
+  body {
     padding: 0;
     margin: 0;
     font-family: Georgia, "Times New Roman", Times, serif;
